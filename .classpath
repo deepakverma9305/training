@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/ooxml-lib/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/ooxml-lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/poi-4.0.1/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Desktop/mysql-connector-java-8.0.13/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/ant-1.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/ant-launcher-1.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/byte-buddy-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/freemarker-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/hibernate-core-5.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/hibernate-tools-5.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/hibernate-tools-maven-plugin-5.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/maven-artifact-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/maven-model-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/maven-plugin-api-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.core.commands-3.9.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.core.contenttype-3.7.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.core.expressions-3.6.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.core.filesystem-1.7.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.core.jobs-3.10.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.core.resources-3.13.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.core.runtime-3.15.100.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.equinox.app-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.equinox.common-3.10.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.equinox.preferences-3.7.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.equinox.registry-3.8.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.jdt.core-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.osgi-3.13.200.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.sisu.inject-0.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.sisu.plexus-0.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/org.eclipse.text-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/plexus-classworlds-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/plexus-component-annotations-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/plexus-utils-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tera/Documents/Hiernate Jars/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
